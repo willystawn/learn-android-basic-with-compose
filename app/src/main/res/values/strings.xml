@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="phone_number">+62 812-2882-5683</string>
+    <string name="url_website">willysetiawan.vercel.app</string>
+    <string name="email">willystawn@gmail.com</string>
+    <string name="name">Willy Setiawan</string>
+    <string name="title">Software Developer</string>
+</resources>
