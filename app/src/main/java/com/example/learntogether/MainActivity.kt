@@ -50,7 +50,7 @@ fun ComposeArticleApp() {
 }
 
 @Composable
-fun ArticleCard(
+private fun ArticleCard(
     title: String,
     shortDesc: String,
     longDesc: String,
